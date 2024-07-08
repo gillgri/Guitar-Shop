@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26a082e5-536c-4480-8b78-6dbd26d9959a" name="Changes" comment="верстка каталога товаров">
+    <list default="true" id="26a082e5-536c-4480-8b78-6dbd26d9959a" name="Changes" comment="LocalStorage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/Header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Products/Products.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Products/Products.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/localStorageUtil.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/localStorageUtil.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +42,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720292312488</updated>
-      <workItem from="1720292314164" duration="17431000" />
+      <workItem from="1720292314164" duration="25270000" />
     </task>
     <task id="LOCAL-00001" summary="создание структуры проекта">
       <created>1720292389119</created>
@@ -70,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720301136667</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="LocalStorage">
+      <created>1720352944498</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720352944498</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +100,7 @@
     <MESSAGE value="создание структуры проекта" />
     <MESSAGE value="формирование каталога товаров" />
     <MESSAGE value="верстка каталога товаров" />
-    <option name="LAST_COMMIT_MESSAGE" value="верстка каталога товаров" />
+    <MESSAGE value="LocalStorage" />
+    <option name="LAST_COMMIT_MESSAGE" value="LocalStorage" />
   </component>
 </project>
