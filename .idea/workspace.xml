@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26a082e5-536c-4480-8b78-6dbd26d9959a" name="Changes" comment="счетчик товаров">
+    <list default="true" id="26a082e5-536c-4480-8b78-6dbd26d9959a" name="Changes" comment="формирование корзины">
+      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/catalog.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/Header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Shopping/Shopping.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Shopping/Shopping.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Shopping/Shopping.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Shopping/Shopping.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Products/Products.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Products/Products.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/catalog.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,6 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/123/Documents/GitHub/Guitar-Shop",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -43,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720292312488</updated>
-      <workItem from="1720292314164" duration="32484000" />
+      <workItem from="1720292314164" duration="40713000" />
     </task>
     <task id="LOCAL-00001" summary="создание структуры проекта">
       <created>1720292389119</created>
@@ -87,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720451840759</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="формирование корзины">
+      <created>1720461886608</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720461886608</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +127,7 @@
     <MESSAGE value="верстка каталога товаров" />
     <MESSAGE value="LocalStorage" />
     <MESSAGE value="счетчик товаров" />
-    <option name="LAST_COMMIT_MESSAGE" value="счетчик товаров" />
+    <MESSAGE value="формирование корзины" />
+    <option name="LAST_COMMIT_MESSAGE" value="формирование корзины" />
   </component>
 </project>
