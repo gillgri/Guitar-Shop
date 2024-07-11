@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26a082e5-536c-4480-8b78-6dbd26d9959a" name="Changes" comment="Fetch API">
-      <change afterPath="$PROJECT_DIR$/components/Spinner/Spinner.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Spinner/Spinner.js" afterDir="false" />
+    <list default="true" id="26a082e5-536c-4480-8b78-6dbd26d9959a" name="Changes" comment="Loader">
+      <change afterPath="$PROJECT_DIR$/components/Error/Error.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Error/Error.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/constants/root.js" beforeDir="false" afterPath="$PROJECT_DIR$/constants/root.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
@@ -17,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -63,7 +64,7 @@
       <updated>1720292312488</updated>
       <workItem from="1720292314164" duration="42754000" />
       <workItem from="1720704737382" duration="1863000" />
-      <workItem from="1720715896032" duration="3599000" />
+      <workItem from="1720715896032" duration="6495000" />
     </task>
     <task id="LOCAL-00001" summary="создание структуры проекта">
       <created>1720292389119</created>
@@ -121,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1720646403115</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Loader">
+      <created>1720723403518</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720723403518</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +154,7 @@
     <MESSAGE value="счетчик товаров" />
     <MESSAGE value="формирование корзины" />
     <MESSAGE value="Fetch API" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fetch API" />
+    <MESSAGE value="Loader" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loader" />
   </component>
 </project>

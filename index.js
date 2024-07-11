@@ -1,7 +1,7 @@
 function render() {
     const productsStore = localStorageUtil.getProducts();
-    headerPage.render(productsStore.length);
 
+    headerPage.render(productsStore.length);
     productsPage.render();
 
 }
@@ -21,6 +21,7 @@ fetch('server/catalog.json')
 
     })
     .catch(error => {
-        console.log(error)
+        spinnerPage.handleClear();
+        errorPage.render();
     });
 
